@@ -1,0 +1,12 @@
+{
+    "python.formatting.provider": "black",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "mian",
+            "database": "${workspaceFolder:School NEA}/main.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
