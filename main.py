@@ -91,3 +91,7 @@ class Student:
 # u1 = User("jimi")
 # u1.assign_password("Emerald15")
 # u1.save_user()
+
+
+
+class MainApp(tk.Tk)
